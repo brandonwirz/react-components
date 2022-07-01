@@ -1,7 +1,6 @@
 import React from "react"
 import reactLogo from '../images/react-icon-small.png'; 
 
-// <img src="../images/react-icon-small.png"/>
 export default function Navbar() {
     return (
         <nav>s
