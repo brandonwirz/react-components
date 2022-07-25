@@ -1,1 +1,1 @@
-*.DS_Storefind . -name '.DS_Store' -type f -delete
+.DS_Store
